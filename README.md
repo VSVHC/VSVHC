@@ -179,6 +179,10 @@ You can check the workflows here: (.github/workflows)
   <a href="https://www.instagram.com/sai_viswa_210/"><img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge&logo=Instagram&logoColor=0A0209"/></a>
 </div>
 
+<div> 
+</div><h3 align="center"></h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsvhc&layout=compact&theme=" alt=vsvhc />
+
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
