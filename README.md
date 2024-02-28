@@ -28,9 +28,9 @@
 
 🎯 I regularly create inspirational content on [LinkedIn](https://www.linkedin.com/in/saiviswa210/) and [Instagram](https://www.instagram.com/sai_viswa_210/).
 
-🎓 Pursuing my IV B.Tech with Electronics and Communication Engineering as major.
+🎓 Pursuing my IV B.Tech with **Electronics and Communication Engineering** as major.
 
-🌱 I'm currently learning Data Science and Artificial Intelligence 🤖.
+🌱 I'm currently learning **Data Science and Artificial Intelligence** 🤖.
 
 📝 	Implemented a creative solution during the Hackathon event at **V. R. Siddhartha College of Engineering**, leveraging Automated technology that sends a message and a buzzer sound when saline bottle is empty, which helps in reducing the risk of patients by **80%**.
 
