@@ -117,23 +117,13 @@
 
 # Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
 
-| Projects | Deployed Link | Repository | Tech Stack & Tools |
+| Projects | Repository | Tools used |  |
 |:---------|:-------------:|:----------:|:-------------------|
-| Designlyfe | [Designlyfe](https://www.designlyfe.tech/) | - | `Next.js` `TypeScript` `React` `Firebase` `Tailwind CSS` `Simple Analytics` `Pageclip` `Postman` | 
-| Handle Multiple Issues | [Marketplace](https://github.com/marketplace/actions/handle-multiple-issues) | [view](https://github.com/Anmol-Baranwal/handle-multiple-issues) | `TypeScript` `GitHub Actions` `GitHub API`| 
-| Flutter Portfolio App | - | [view](https://github.com/Anmol-Baranwal/Anmol-Baranwal-Profile) | `Dart` `Flutter` `Dot Navigation Bar`| 
-| WaitSmart | [view](https://wait-smart-chi.vercel.app/) | [view](https://github.com/Anmol-Baranwal/WaitSmart) | `Next.js` `JavaScript` `React` `Firebase` `Chakra UI` `CSS3` |
-| Coffee Compass | [view](https://coffee-project-anmol-baranwal.vercel.app/) | [view](https://github.com/Anmol-Baranwal/Coffee-Compass) | `Next.js` `JavaScript` `Postman` `Airtable Database` `CSS3` |
-| MongoDB Query Fetcher | [view](https://mongodb-query-fetcher.vercel.app/) | [view](https://github.com/Anmol-Baranwal/FullStack-MongoDB-Query-Fetcher) | `Next.JS` `Node.JS` `Express.JS` `JavaScript` `MongoDB` `CSS3` `MongoDB Compass` `Postman` |
-| Plasmo Chrome Extension | - | [view](https://github.com/Anmol-Baranwal/country-chrome-extension) | `Plasmo Framework` `TypeScript` `Tailwind CSS` `Google Chrome Browser`
-| ToDo List Web App | [view](https://todo-list-k7qu.onrender.com/) | [view](https://github.com/Anmol-Baranwal/ToDo-List-WebApp) | `Node.JS` `Express.JS` `JavaScript` `MongoDB` `Bootstrap` |
-| BabySteps | [view](https://baby-steps-rho.vercel.app/) | [view](https://github.com/Anmol-Baranwal/BabySteps-Project) | `Next.js` `JavaScript` `Postman` `CSS3` |
-| Client's Portfolio | [view](https://anmol-baranwal.github.io/Portfolio-Akanksha/) | [view](https://github.com/Anmol-Baranwal/Portfolio-Akanksha) | `JavaScript` `Bootstrap` `jQuery` `Vanilla Tilt` `Owl Carousel` `Typed JS` |
-| Notes Keeper App | [view](https://notes-keeper-app-i91s.vercel.app/) | - | `React` `JavaScript` `CSS3` `HTML5` |
-| Password Power | [view](https://password-generator-anmol-baranwal.vercel.app/) | - | `JavaScript` `CSS3` `HTML5` |
-| Color Shade Tool | [view](https://color-darken-tool.vercel.app/) | - | `JavaScript` `CSS3` `HTML5` |
-| Conceptual Mini Projects | - | [view](https://github.com/Anmol-Baranwal/Conceptual-Projects) | `JavaScript` `SCSS` `Tailwind` `jQuery` `Node.JS` `Express.JS` `CSS3` |
-| C++ Special Programs | - | [view](https://github.com/Anmol-Baranwal/CPP-Special-Programs) | `C++` |
+| Bank Loan Analysis | [view](https://github.com/VSVHC/Data-analytics-projects/tree/main/EDA) | `NumPy` `Pandas` `Matploilib` `seaborn` `Python`  | 
+| Email_Slicer | [view](https://github.com/VSVHC/Python-Projects/tree/main/Email_Slicer) | `Python`| 
+| Expense Tracker | [view](https://github.com/VSVHC/Python-Projects/tree/main/Expense%20Tracker) | `Python`| 
+| Morse Encoder |  [view](https://github.com/VSVHC/Python-Projects/tree/main/Morse%20Encoder) | `Python`|
+| Virtual Coffee Machine | [view](https://github.com/VSVHC/Python-Projects/tree/main/Virtual%20Coffee%20Machine) | `Python`|
 
 <br>
 
