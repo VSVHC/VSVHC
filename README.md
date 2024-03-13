@@ -117,8 +117,8 @@
 
 # Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
 
-| Projects | Repository | Tools used | |
-|:---------|:-------------:|:----------:|:-------------------|
+| Projects | Repository | Tools used | 
+|:---------|:-------------:|:----------:|
 | Bank Loan Analysis | [view](https://github.com/VSVHC/Data-analytics-projects/tree/main/EDA) | `NumPy` `Pandas` `Matploilib` `seaborn` `Python`  | 
 | Email_Slicer | [view](https://github.com/VSVHC/Python-Projects/tree/main/Email_Slicer) | `Python`| 
 | Expense Tracker | [view](https://github.com/VSVHC/Python-Projects/tree/main/Expense%20Tracker) | `Python`| 
