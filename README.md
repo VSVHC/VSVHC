@@ -119,7 +119,7 @@
 
 | Projects | Repository | Tools used | 
 |:---------|:-------------:|:----------:|
-| Bank Loan Analysis | [view](https://github.com/VSVHC/Data-analytics-projects/tree/main/EDA) | `NumPy` `Pandas` `Matploilib` `seaborn` `Python`  | 
+| Credit Risk Analysis | [view](https://github.com/VSVHC/Data-analytics-projects/tree/main/EDA) | `NumPy` `Pandas` `Matploilib` `seaborn` `Python`  | 
 | Email_Slicer | [view](https://github.com/VSVHC/Python-Projects/tree/main/Email_Slicer) | `Python`| 
 | Expense Tracker | [view](https://github.com/VSVHC/Python-Projects/tree/main/Expense%20Tracker) | `Python`| 
 | Morse Encoder |  [view](https://github.com/VSVHC/Python-Projects/tree/main/Morse%20Encoder) | `Python`|
