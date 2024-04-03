@@ -121,8 +121,8 @@
 
 | Projects | Repository | Tools used | 
 |:---------|:-------------:|:----------:|
-| Credit Risk Analysis | [view](https://github.com/VSVHC/Data-analytics-projects/tree/main/EDA) | `NumPy` `Pandas` `Matploilib` `seaborn` `Python`  | 
-| IMDB Movie Rating Analysis | [view](https://github.com/VSVHC/IMDB-Movie-Rating-Analysis) | `Pandas` `Matploilib` `Seaborn` `Python` `Jupyter`  | 
+| Credit Risk Analysis | [view](https://github.com/VSVHC/Data-analytics-projects/tree/main/EDA) | `NumPy` `Pandas` `Matploilib` `Seaborn` `Python` `Jupyter` `Kaggle` | 
+| IMDB Movie Rating Analysis | [view](https://github.com/VSVHC/IMDB-Movie-Rating-Analysis) | `Pandas` `Matploilib` `Seaborn` `Python` `Jupyter` `Kaggle` | 
 | Email_Slicer | [view](https://github.com/VSVHC/Python-Projects/tree/main/Email_Slicer) | `Python`| 
 | Expense Tracker | [view](https://github.com/VSVHC/Python-Projects/tree/main/Expense%20Tracker) | `Python`| 
 | Morse Encoder |  [view](https://github.com/VSVHC/Python-Projects/tree/main/Morse%20Encoder) | `Python`|
