@@ -73,7 +73,9 @@
 
   - Participated in coding competition in **3rd B.Tech** at **Seshadri Rao Gudlavellaru Engineering College**.
 
-  - Successfully participated in **Pencil sketching** competition in **Seshadri Rao Gudlavellaru Engineering College**.✏️  
+  - Participated in **Pencil sketching** competition in **Seshadri Rao Gudlavellaru Engineering College**.✏️
+
+  - AI-ML Virtual Internship in **AWS Academy (Edu SKills)**  
     
 </details>
 
