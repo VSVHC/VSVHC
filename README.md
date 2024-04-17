@@ -11,7 +11,7 @@
 <div align="center">
   <br><br>  
   <a href="https://www.linkedin.com/in/saiviswa210/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username saiviswa210" /></a>
-  <a href="mailto:haricharanvasudha@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Anmol i.e.   haricharanvasudha@gmail.com" /></a>
+  <a href="mailto:haricharanvasudha@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of VSVHC i.e.   haricharanvasudha@gmail.com" /></a>
   <a href="https://twitter.com/saiviswa210"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username saiviswa210" ></a>
   <a href="https://www.instagram.com/sai_viswa_210/"><img src="https://img.shields.io/badge/instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209" alt="profile of instagram with username sai_viswa_210" ></a>
 </div>
