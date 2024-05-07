@@ -119,7 +119,7 @@
 
 # Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
 
-| Projects | Repository | Tools used | Libraries Used | 
+| Projects | Repository | Tools used | Libraries Used   | 
 |:---------|:-------------:|:----------:|:----------:|
 | Credit Risk Analysis | [view](https://github.com/VSVHC/Data-analytics-projects/tree/main/EDA) | `NumPy` `Pandas` `Matploilib` `Seaborn` `Python` `Jupyter` `Kaggle` | `-`|
 | IMDB Movie Rating Analysis | [view](https://github.com/VSVHC/IMDB-Movie-Rating-Analysis) | `Pandas` `Matploilib` `Seaborn` `Python` `Jupyter` `Kaggle` | `-`|
