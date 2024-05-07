@@ -119,16 +119,16 @@
 
 # Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
 
-| Projects | Repository | Tools used | 
+| Projects | Repository | Tools used | Libraries Used | 
 |:---------|:-------------:|:----------:|
 | Credit Risk Analysis | [view](https://github.com/VSVHC/Data-analytics-projects/tree/main/EDA) | `NumPy` `Pandas` `Matploilib` `Seaborn` `Python` `Jupyter` `Kaggle` | 
 | IMDB Movie Rating Analysis | [view](https://github.com/VSVHC/IMDB-Movie-Rating-Analysis) | `Pandas` `Matploilib` `Seaborn` `Python` `Jupyter` `Kaggle` | 
 | Data Augmentation Using Keras & TF | [view](https://github.com/VSVHC/Artificial-Intelligence/tree/main/Deep%20Learning/CNN/Data%20Augmentation%20Using%20Keras%20%26%20TF) | `Kera's` `TensorFlow` `Image Data Generator` `Google Colab`|
 | Image Classification Using Max_Pooling | [view](https://github.com/VSVHC/Artificial-Intelligence/tree/main/Deep%20Learning/CNN/Image%20Classification%20Using%20Max_Pooling) | `Kera's` `TensorFlow` `Image Data Generator` `Google Colab`| 
-| Email_Slicer | [view](https://github.com/VSVHC/Python-Projects/tree/main/Email_Slicer) | `Python`| 
-| Expense Tracker | [view](https://github.com/VSVHC/Python-Projects/tree/main/Expense%20Tracker) | `Python`| 
-| Morse Encoder |  [view](https://github.com/VSVHC/Python-Projects/tree/main/Morse%20Encoder) | `Python`|
-| Virtual Coffee Machine | [view](https://github.com/VSVHC/Python-Projects/tree/main/Virtual%20Coffee%20Machine) | `Python`|
+| Email_Slicer | [view](https://github.com/VSVHC/Python-Projects/tree/main/Email_Slicer) | `Python`| `-` | 
+| Expense Tracker | [view](https://github.com/VSVHC/Python-Projects/tree/main/Expense%20Tracker) | `Python`| `-` |
+| Morse Encoder |  [view](https://github.com/VSVHC/Python-Projects/tree/main/Morse%20Encoder) | `Python`| `-` |
+| Virtual Coffee Machine | [view](https://github.com/VSVHC/Python-Projects/tree/main/Virtual%20Coffee%20Machine) | `Python`| `-` |
 
 
 <br>
