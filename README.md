@@ -40,31 +40,23 @@
 
 </div>
 
-<br>
-<details>
-  <summary>🏆 Achievements</summary>
-  <br>  
-  💜 Competition Zone
-  
-  - Received 2nd prize in the Technical Quiz competition held at V.K.R, V.N.B college of Engineering🏆.    
+  ## Achievements 🏆
+  👉🏻 Competition Zone
+    - Received 2nd prize in the Technical Quiz competition held at V.K.R, V.N.B college of Engineering🏆.    
   
   - Implemented a creative solution during the Hackathon event at V. R. Siddhartha College of Engineering, leveraging Automated technology that sends a message and a buzzer sound when saline bottle is empty, which helps in reducing the risk of patients by 80%💉.
   
   - Achieved the score of 71% in NPTEL course, The Joy of Computing using Python🐍.
     
-  💜 Casual Zone
+  👉🏻 Casual Zone
   
   - Achieved the best [Community Service Project](https://drive.google.com/file/d/1beJo2SQmxIYm55NOM6gjDg0qz6y_r3Uj/view?usp=sharing) research competition at college.
   
   - Accomplish the best **ECO-FRIENDLY GANESHA CONTEST** and secured the **1st Position** and won **Cash Prize** conducted by **EENADU HI BUJJI** at school.
 
 </details>
-<br><br>
 
-<details>
-  <summary>📜 Certifications</summary>
-  <br>  
-  
+## Certifications 📜
   - Successfully completed two week internship on **Embedded Systems Designing Concepts** in **MICROLINK** from **23rd MAY to 6th JUNE 2022**.⚡
   
   - Accomplished **Advanced Certification on Emerging Technologies (ARC - ROBOTICS)** during **August 29th to October 21st 2022**.🤖
@@ -78,8 +70,6 @@
   - AI-ML Virtual Internship in **AWS Academy (Edu SKills)**  
     
 </details>
-
-<br><br>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
